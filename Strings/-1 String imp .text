@@ -1,0 +1,39 @@
+Basic opration....
+"""""""""""""""""""""""""""""""""""""
+1 --->   str.length() ; // For finding the string size ...............................................................................
+2 --->   str.charAt(index) ;   // if finding for a character in string ...............................................................
+3 --->   str.setCharAt(index, 'char')  // for updating character in String............................................................
+4 --->   str1.equals(str2) ;   // this for checking if both string are equals or not .................................................
+5 --->   str.toUpperCase();   // this return uppercase of all character...............................................................
+6 --->   str.toLowerCase();   // this return LoerCase of all character................................................................
+7 --->   str.indexOf(String str) ;   // this returns the index of String..............................................................
+8 --->   str.lastIndexOf(String str) // this return last index .......................................................................
+9 --->   str.replace(String oldStr, String newStr) // replace the string old to new ..................................................
+10 -->   String[] arr = str.split("//in which use the spiilt character betwn split");.................................................
+11 -->   s1.substring(s2.length())  //For example,if s1 = "abcdef" and s2 = "abc", then s1.substring(s2.length()) = return string "def"
+12 ->    s1.equals(s2.substring(i,j)) // check if s2 full size substring of s2 
+
+String to change character arr use -->>>
+""""""""""""""""""""""""""""""""""""""""""""""
+str.toCharArray(i) // i is index number
+
+Using StringBuilder or StringBuffer:   ->>       swaping
+"""""""""""""""""""""""""""""""""""""""""""""
+StringBuilder sb = new StringBuilder("Hello");
+sb.setCharAt(0, 'h');
+sb.setCharAt(1, 'e');
+String newStr = sb.toString();
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+1  suppose the 2D array is 
+
+    ex. int arr[][] = {{2,5,0,5},{3,6,3,2} ,{3,88,5,-1}};
+
+    then the length is of row is ---->>> int size =  arr.length ;
+    also the length of column is ---->>> int size = arr[0].length ;
+
+
+
+    

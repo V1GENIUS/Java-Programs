@@ -1,0 +1,549 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "swapFirstLastDigit",
+      "request": "launch",
+      "mainClass": "NumberQuestion.swapFirstLastDigit",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "ArmstrongNumber",
+      "request": "launch",
+      "mainClass": "NumberQuestion.ArmstrongNumber",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "primeNumber",
+      "request": "launch",
+      "mainClass": "NumberQuestion.primeNumber",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "module",
+      "request": "launch",
+      "mainClass": "NumberQuestion.module",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "palindromCheck",
+      "request": "launch",
+      "mainClass": "Strings.palindromCheck",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "practice_rec",
+      "request": "launch",
+      "mainClass": "Recursion.practice_rec",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "bubble_sort_wrost_case",
+      "request": "launch",
+      "mainClass": "bubble_sort_wrost_case",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "missing_Element",
+      "request": "launch",
+      "mainClass": "missing_Element",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_the_array",
+      "request": "launch",
+      "mainClass": "Reverse_the_array",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "countMinNumberOfNotes",
+      "request": "launch",
+      "mainClass": "countMinNumberOfNotes",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "swaping_num",
+      "request": "launch",
+      "mainClass": "swaping_num",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_odd",
+      "request": "launch",
+      "mainClass": "sum_of_odd",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "vivekws",
+      "request": "launch",
+      "mainClass": "vivekws",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "Strings.practice",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "String_to_char_array",
+      "request": "launch",
+      "mainClass": "Strings.String_to_char_array",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "Numbers",
+      "request": "launch",
+      "mainClass": "ArrayList.Numbers",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "Daimondd",
+      "request": "launch",
+      "mainClass": "patterns.Daimondd",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vvvvvlkjeh",
+      "request": "launch",
+      "mainClass": "vvvvvlkjeh",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vvvvv",
+      "request": "launch",
+      "mainClass": "vvvvv",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "maxSubarray",
+      "request": "launch",
+      "mainClass": "maxSubarray",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "Strings.practice",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practicearr",
+      "request": "launch",
+      "mainClass": "practicearr",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "interfaceex",
+      "request": "launch",
+      "mainClass": "interfaceex",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vv",
+      "request": "launch",
+      "mainClass": "vv",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vv",
+      "request": "launch",
+      "mainClass": "oops_Logic.vv",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "single_inheritance",
+      "request": "launch",
+      "mainClass": "oops_Logic.Inheritance.single_inheritance",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "subbarray_sum",
+      "request": "launch",
+      "mainClass": "subbarray_sum",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vivekq1",
+      "request": "launch",
+      "mainClass": "vivekq1",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vivekq",
+      "request": "launch",
+      "mainClass": "vivekq",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice_rec",
+      "request": "launch",
+      "mainClass": "Recursion.practice_rec",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Inc_Left_rev_triangle",
+      "request": "launch",
+      "mainClass": "patterns.Inc_Left_rev_triangle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "decNum_peramid",
+      "request": "launch",
+      "mainClass": "patterns.decNum_peramid",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "numDec_triangle",
+      "request": "launch",
+      "mainClass": "patterns.numDec_triangle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "left_reverse_triangle",
+      "request": "launch",
+      "mainClass": "patterns.left_reverse_triangle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Left_triangle",
+      "request": "launch",
+      "mainClass": "patterns.Left_triangle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Daimond",
+      "request": "launch",
+      "mainClass": "patterns.Daimond",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice_0",
+      "request": "launch",
+      "mainClass": "patterns.practice_0",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "patterns.practice",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "bubble_sort_wrost_case",
+      "request": "launch",
+      "mainClass": "bubble_sort_wrost_case",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Swapping_char",
+      "request": "launch",
+      "mainClass": "Strings.Swapping_char",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "print_num",
+      "request": "launch",
+      "mainClass": "HashMap.print_num",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice$dataNode",
+      "request": "launch",
+      "mainClass": "practice$dataNode",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "string_print",
+      "request": "launch",
+      "mainClass": "Strings.string_print",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Kth_max_element",
+      "request": "launch",
+      "mainClass": "Kth_max_element",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Max_Mini_element",
+      "request": "launch",
+      "mainClass": "Max_Mini_element",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_the_array",
+      "request": "launch",
+      "mainClass": "Reverse_the_array",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Sorting_Practic",
+      "request": "launch",
+      "mainClass": "Sorting_Practic",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "FractionOfTwo_no",
+      "request": "launch",
+      "mainClass": "FractionOfTwo_no",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "PrintMatrix",
+      "request": "launch",
+      "mainClass": "Metrices.PrintMatrix",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "LeftTringle",
+      "request": "launch",
+      "mainClass": "patterns.LeftTringle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Tringle",
+      "request": "launch",
+      "mainClass": "patterns.Tringle",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Square",
+      "request": "launch",
+      "mainClass": "patterns.Square",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "s",
+      "request": "launch",
+      "mainClass": "s",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Selectionsort",
+      "request": "launch",
+      "mainClass": "Selectionsort",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "traversereverse",
+      "request": "launch",
+      "mainClass": "traversereverse",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "TraverseLinkedList",
+      "request": "launch",
+      "mainClass": "TraverseLinkedList",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vivekkl",
+      "request": "launch",
+      "mainClass": "vivekkl",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vivekr",
+      "request": "launch",
+      "mainClass": "vivekr",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vinay",
+      "request": "launch",
+      "mainClass": "ArrayList.vinay",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "traverseArray",
+      "request": "launch",
+      "mainClass": "ArrayList.traverseArray",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "vivek1",
+      "request": "launch",
+      "mainClass": "ArrayList.vivek1",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch vivek",
+      "request": "launch",
+      "mainClass": "Stack.vivek",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch main1",
+      "request": "launch",
+      "mainClass": "Recursion.main1",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch fact",
+      "request": "launch",
+      "mainClass": "Recursion.fact",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch ATM",
+      "request": "launch",
+      "mainClass": "ATM",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberGuessingGame",
+      "request": "launch",
+      "mainClass": "NumberGuessingGame",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch vivel",
+      "request": "launch",
+      "mainClass": "vivel",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch node",
+      "request": "launch",
+      "mainClass": "node",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch Numbers",
+      "request": "launch",
+      "mainClass": "ArrayList.Numbers",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch vivek",
+      "request": "launch",
+      "mainClass": "ArrayList.vivek",
+      "projectName": "java program_47998604"
+    },
+    {
+      "type": "java",
+      "name": "Launch vivek",
+      "request": "launch",
+      "mainClass": "vivek",
+      "projectName": "java program_47998604"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/GENIUS        °~°/java program",
+      "program": "e:/GENIUS        °~°/java program/build/Release/outRelease",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
