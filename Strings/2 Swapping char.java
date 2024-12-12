@@ -12,6 +12,16 @@ class Swapping_char {
 
         System.out.println(subStr);
 
+
+
+
+
+
+
+
+
+        
+
         // Using String builder swapping character
         // """"""""""""""""""""""""""""""""""""""""""""""""""
         StringBuilder sb = new StringBuilder("vek");
