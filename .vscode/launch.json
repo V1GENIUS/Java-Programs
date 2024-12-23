@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "primePrint",
+      "request": "launch",
+      "mainClass": "NumberQuestion.primePrint",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "Sorting_Practic",
+      "request": "launch",
+      "mainClass": "Sorting_Practic",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
+      "name": "rotate_array",
+      "request": "launch",
+      "mainClass": "rotate_array",
+      "projectName": "java program_c5714205"
+    },
+    {
+      "type": "java",
       "name": "swapFirstLastDigit",
       "request": "launch",
       "mainClass": "NumberQuestion.swapFirstLastDigit",
